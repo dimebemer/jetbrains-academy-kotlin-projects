@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main(args: Array<String>) {
+        println(1)
+        println(2)
+        println(3)
+        println(4)
+        println(5)
+        println(6)
+        println(7)
+        println(8)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4409
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4409">JetBrains
+    Academy</a></html>
+  time: Sat, 29 Aug 2020 22:56:33 UTC
+record: -1
