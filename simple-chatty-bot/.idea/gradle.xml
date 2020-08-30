@@ -12,7 +12,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Area of a circle" />
             <option value="$PROJECT_DIR$/Problems/Between two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Celsius to Fahrenheit" />
             <option value="$PROJECT_DIR$/Problems/Comment some lines" />
             <option value="$PROJECT_DIR$/Problems/Comparing sums" />
             <option value="$PROJECT_DIR$/Problems/Division" />
@@ -21,6 +23,7 @@
             <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
             <option value="$PROJECT_DIR$/Problems/Job" />
             <option value="$PROJECT_DIR$/Problems/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Problems/Liquid pressure" />
             <option value="$PROJECT_DIR$/Problems/Queens" />
             <option value="$PROJECT_DIR$/Problems/Right equation" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
