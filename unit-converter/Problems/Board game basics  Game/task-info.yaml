@@ -1,0 +1,19 @@
+type: code
+custom_name: 'Board game basics: Game'
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    object PlayingField {
+        object Size {
+            // TODO
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9370
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9370">JetBrains
+    Academy</a></html>
+  time: Sun, 30 Aug 2020 22:33:21 UTC
+record: -1
