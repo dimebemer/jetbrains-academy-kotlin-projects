@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class City(val name: String) {
+        var population: Int
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7368
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7368">JetBrains
+    Academy</a></html>
+  time: Tue, 01 Sep 2020 06:23:11 UTC
+record: -1

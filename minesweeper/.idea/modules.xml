@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/minesweeper.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/minesweeper.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/minesweeper.Minesweeper-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/minesweeper.Minesweeper-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/minesweeper.Minesweeper-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/minesweeper.Minesweeper-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/minesweeper.Problems-Check_the_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/minesweeper.Problems-Check_the_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/minesweeper.Problems-Check_the_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/minesweeper.Problems-Check_the_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/minesweeper.Problems-Check_the_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/minesweeper.Problems-Check_the_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/City population/minesweeper.Problems-City_population.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/City population/minesweeper.Problems-City_population.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/City population/minesweeper.Problems-City_population.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/City population/minesweeper.Problems-City_population.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/City population/minesweeper.Problems-City_population.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/City population/minesweeper.Problems-City_population.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/minesweeper.Problems-Delegation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/minesweeper.Problems-Delegation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/minesweeper.Problems-Delegation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/minesweeper.Problems-Delegation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/minesweeper.Problems-Delegation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/minesweeper.Problems-Delegation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/minesweeper.Problems-Individual_taxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/minesweeper.Problems-Individual_taxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/minesweeper.Problems-Individual_taxes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/minesweeper.Problems-Individual_taxes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/minesweeper.Problems-Individual_taxes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/minesweeper.Problems-Individual_taxes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/minesweeper.Problems-Initializing_an_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/minesweeper.Problems-Initializing_an_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/minesweeper.Problems-Initializing_an_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/minesweeper.Problems-Initializing_an_array.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/minesweeper.Problems-Initializing_an_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/minesweeper.Problems-Initializing_an_array.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/minesweeper.Problems-Initializing_an_array_of_integers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/minesweeper.Problems-Initializing_an_array_of_integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/minesweeper.Problems-Initializing_an_array_of_integers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/minesweeper.Problems-Initializing_an_array_of_integers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/minesweeper.Problems-Initializing_an_array_of_integers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/minesweeper.Problems-Initializing_an_array_of_integers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/minesweeper.Problems-Initializing_an_array_of_longs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/minesweeper.Problems-Initializing_an_array_of_longs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/minesweeper.Problems-Initializing_an_array_of_longs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/minesweeper.Problems-Initializing_an_array_of_longs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/minesweeper.Problems-Initializing_an_array_of_longs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/minesweeper.Problems-Initializing_an_array_of_longs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Is it here?/minesweeper.Problems-Is_it_here_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Is it here?/minesweeper.Problems-Is_it_here_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Is it here?/minesweeper.Problems-Is_it_here_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Is it here?/minesweeper.Problems-Is_it_here_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Is it here?/minesweeper.Problems-Is_it_here_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Is it here?/minesweeper.Problems-Is_it_here_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/minesweeper.Problems-Weather_comparison.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/minesweeper.Problems-Weather_comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/minesweeper.Problems-Weather_comparison.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/minesweeper.Problems-Weather_comparison.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/minesweeper.Problems-Weather_comparison.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/minesweeper.Problems-Weather_comparison.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/minesweeper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/minesweeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/minesweeper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/minesweeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/minesweeper.util.test.iml" />
+    </modules>
+  </component>
+</project>
